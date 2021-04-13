@@ -1,12 +1,1 @@
--This is my new file
--Main Blog Post Schedule, every Friday 13.00 WIB 17.00 EAST
--Lesson 1: Korean Structure
--Lesson 2: Sentence Structure
--Lesson 3: Korean Number 
--Lesson 4: How to use Adjective
--Lesson 5: Verbs
--Lesson 6: Grammar
--Lesson 7: Adverbs
--Lesson 8: Conjunctions Words
--Lesson 9: Comparative Degrees
--Lesson 10: Active Voices
+
